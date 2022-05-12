@@ -4429,6 +4429,18 @@ get-symbol-description@^1.0.0:
     call-bind "^1.0.2"
     get-intrinsic "^1.1.1"
 
+ggpush@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/ggpush/-/ggpush-1.0.4.tgz#4b99eea2b6c2eb1fbe77a342a58294ce988f9c42"
+  integrity sha1-S5nuorbC6x++d6NCpYKUzpiPnEI=
+  dependencies:
+    git-current-branch "^1.0.3"
+
+git-current-branch@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/git-current-branch/-/git-current-branch-1.0.3.tgz#155042305084fb4422da279892ef0a4051264bd8"
+  integrity sha1-FVBCMFCE+0Qi2ieYku8KQFEmS9g=
+
 glob-parent@^5.1.2, glob-parent@~5.1.2:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
